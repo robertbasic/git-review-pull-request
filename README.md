@@ -26,3 +26,4 @@ git config --global difftool.prompt vimdiff
 git checkout branch-from-which-a-pr-is-created
 git rpr
 ```
+foo
